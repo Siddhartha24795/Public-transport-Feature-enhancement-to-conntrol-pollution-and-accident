@@ -1,19 +1,19 @@
 # Public-transport-Feature-enhancement-to-conntrol-pollution-and-accident
 It explains features that must be added to public transport in order to make people use public transport instead of their own vehicle thus controlling the pollution and less accident
 
-Objective: To develop a Web app for making the public transport
+#Objective: To develop a Web app for making the public transport
 system more convenient and accessible for everyone.
-Implementation Details: Our implementation details include to
+#Implementation Details: Our implementation details include to
 develop a WebApp which would include the following features. The
 features are listed below:
-Tech Stack Used: HTML, CSS, JavaScript, ReactJS, Django, Node.
-Step 1: User registration through app.
+#Tech Stack Used: HTML, CSS, JavaScript, ReactJS, Django, Node.
+#Step 1: User registration through app.
 a) Ask for all the necessary details of the users and verify user through
 Aadhar card.
 b) For first time users, provide 50% off on first 5 rides, so that they get
 attracted and travel and get to understand the difference between
 existing previous public transport and the new one.
-Step 2: Ask user for pick up and Drop location, also special option for
+#Step 2: Ask user for pick up and Drop location, also special option for
 non-stop service. When users books a service shows the users the
 following details of the means of public transport they are taking :
 a) Show bus no. of all the buses travelling through that route + their live
@@ -27,7 +27,7 @@ d) Show priority in booking like window seat (first time visitor) etc.,
 according to user preference.e)Keep some non-stop (No halt) service buses for some frequently used
 destinations like to railway station or airports for quick arrival without
 wastage of time.
-Step 3: Show the total cost and the credits earned. Credits are earned
+#Step 3: Show the total cost and the credits earned. Credits are earned
 by the users for as for each 3km they would earn 1 credits. (2credits =
 1Rs). These credits can be used by the users for the next ride or transfer
 amount to their bank account. Also show the following details at the
@@ -36,14 +36,14 @@ a) Show public transport cost and comparison stats with ola, uber etc.
 Also, show comparative time analysis which is just same as private
 ones.
 b) Total money saved.
-Step 4: Show various offers, coupons available
+#Step 4: Show various offers, coupons available
 a) Show off due to festive seasons etc.
 b) Show offers in circular trip this will be beneficial for society aunts,
 office persons etc.
 c) Offers for family booking, booking more than one seat at a time (Cost
 around .80 times of total cost)
 d) Offers for monthly users/ passes.
-Step 5: Payment portal
+#Step 5: Payment portal
 a) One payment portal/Smart Card for all public transport payments.
 That can get recharged online or at fixed stations like Metros.
 b) Pay for entire trip at one time even if there are breaks in between.
@@ -65,7 +65,7 @@ Expenses: Camera + GPS device (Total cost is around 1200-1500), this
 amount is even less than profit earned per day by any public transport
 so net no expense is required, only some part of profit of a day is
 exploited.
-Problems in public transportation ans their solution that we would
+#Problems in public transportation ans their solution that we would
 provide through use of WebApp:
 a) Security: Private transport has a risk of security as you are travelling
 with unknown driver(ola, uber) in case you don’t have your own
@@ -77,7 +77,7 @@ service, this facility can be added by providing E-rickshaw at such
 points. If someone is having good he prefers private vehicle , but Erickshaw connecting doors to main tracks solves this issue. Payment is
 done through portal only at one time. Show vacant seats in these small
 vehicles also while you are in bus. No pollution, also less traffic caused.
-Features that public transport was lacking in comparison to private
+#Features that public transport was lacking in comparison to private
 transport + some some new features :
 a) Live seat display, time to reach destination, next pick up time,
 alternatives available to travel with corresponding time, use of live
@@ -105,7 +105,7 @@ during festivals.
 j) One Payment Mode : for all kind of transportation- metro, buses, Erickshaws, one mode of payment through portal/smart card. No
 separate payment even for door to door services. Provide offers while
 recharging.
-Optional features that can be added to WebApp:
+#Optional features that can be added to WebApp:
 a) Exploiting private vehicles to make them public : Allow people to add
 their vehicles as public transport by registering through this app, now
 areas in which only few people travel like 5-7 at a time these vehicles
@@ -123,7 +123,7 @@ e) Add comfortable seats in buses + One TV for entertainment, also
 reduce prices of AC buses with more no. of AC buses on the road.
 f) Make offers at early credits and thus the use the interest of stored
 amount for better facilities in public means.
-Application: This WebApp can be used by every users to have
+#Application: This WebApp can be used by every users to have
 convenient and comfortable ride while they are taking the public
 transport services. This would help users for last mile communication
 through this WebApp the users can get the live location of each of the
