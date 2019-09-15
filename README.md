@@ -3,11 +3,14 @@ It explains features that must be added to public transport in order to make peo
 
 #Objective: To develop a Web app for making the public transport
 system more convenient and accessible for everyone.
+
 #Implementation Details: Our implementation details include to
 develop a WebApp which would include the following features. The
 features are listed below:
+
 #Tech Stack Used: HTML, CSS, JavaScript, ReactJS, Django, Node.
 #Step 1: User registration through app.
+
 a) Ask for all the necessary details of the users and verify user through
 Aadhar card.
 b) For first time users, provide 50% off on first 5 rides, so that they get
